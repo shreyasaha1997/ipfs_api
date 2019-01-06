@@ -1,3 +1,5 @@
+This project was created as part of my internship in REVotic Engineering.
+
 ## Server Side API:
 
 A lightweight, interactive and secure web application will be used to provide native functionality of authorising users. A new user can create their account to use IPFS streaming services. They can monitor the stats of IPFS network. Create API key to communicate between a client application and streaming server. Over web application, a user can also check documentation and guides to effectively use IPFS streaming technology.
